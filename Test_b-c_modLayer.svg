@@ -1,0 +1,33 @@
+<ns0:svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns0="http://www.w3.org/2000/svg" xmlns:ns1="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:ns2="http://www.inkscape.org/namespaces/inkscape" xmlns:ns4="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" height="297mm" id="svg9" version="1.1" viewBox="0 0 8.2677168 11.692914" width="210mm" ns1:docname="Test.svg" ns2:version="0.92.3 (2405546, 2018-03-11)">
+  <ns0:defs id="defs2" />
+  <ns1:namedview bordercolor="#666666" borderopacity="1.0" id="namedview4" pagecolor="#ffffff" showgrid="true" units="mm" ns2:current-layer="layer4" ns2:cx="397.76579" ns2:cy="262.47697" ns2:document-units="px" ns2:object-paths="true" ns2:pageopacity="0.0" ns2:pageshadow="2" ns2:snap-bbox="true" ns2:snap-center="true" ns2:snap-intersection-paths="true" ns2:snap-midpoints="true" ns2:snap-object-midpoints="true" ns2:snap-page="false" ns2:snap-smooth-nodes="true" ns2:snap-text-baseline="true" ns2:window-height="1408" ns2:window-maximized="0" ns2:window-width="1247" ns2:window-x="1242" ns2:window-y="0" ns2:zoom="0.75472302">
+    <ns2:grid dotted="true" empcolor="#f13fff" empopacity="0.25098039" id="grid819" spacingx="0.020833334" spacingy="0.020833334" type="xygrid" />
+  </ns1:namedview>
+  <ns0:metadata id="metadata6">
+    <rdf:RDF>
+      <ns4:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+        <dc:creator>
+          <ns4:Agent>
+            <dc:title>Christoph Goering</dc:title>
+          </ns4:Agent>
+        </dc:creator>
+      </ns4:Work>
+    </rdf:RDF>
+  </ns0:metadata>
+  <ns0:g exercise="d-e" id="layer3" style="display:none" ns2:groupmode="layer" ns2:label="Ueber1">
+    <ns0:g exercise="a,b-c,d-e" id="layer1" style="display:inline" transform="translate(0,0.69291363)" ns2:groupmode="layer" ns2:label="Ebene1">
+      <ns0:path d="M 1.4583338,4.1929148 3.3333344,2.3179143 4.1666679,4.6095816 1.4583338,4.1929148" id="path816" style="opacity:1;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.01041667;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" transform="translate(0,-0.69291363)" ns2:connector-curvature="0" />
+    </ns0:g>
+    <ns0:g exercise="b-c" id="layer2" style="display:inline" ns2:groupmode="layer" ns2:label="Ebene2">
+      <ns0:path d="M 2.2916674,4.817915 5.0000015,2.9429145 5.8333351,7.1095824 3.7500012,5.6512486 1.041667,6.6929156 Z" id="path819" style="opacity:1;fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:0.01041667;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" ns2:connector-curvature="0" />
+    </ns0:g>
+  </ns0:g>
+  <ns0:g exercise="d-e" id="layer4" style="display:none" ns2:groupmode="layer" ns2:label="Ueber2">
+    <ns0:g exercise="never" id="layer5" style="display:none" ns2:groupmode="layer" ns2:label="Ebene3">
+      <ns0:path d="M 3.8541665,6.6929136 6.5625007,4.8179131 7.3958342,8.984581 5.3125003,7.5262472 2.6041661,8.5679142 Z" id="path819-1" style="display:inline;opacity:1;fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:0.01041667;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" ns2:connector-curvature="0" />
+    </ns0:g>
+  </ns0:g>
+</ns0:svg>
