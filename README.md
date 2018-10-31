@@ -26,6 +26,8 @@ python hideAndShowLayers.py
 ```
 runs the script in the current folder. It will search for `*.svg` files and then for their layers. The default node identifier at layer lever is `exercise`. If in the whole file no such node exist the program will skip the current `svg` file. As soon as there is one instance it will create new `svgs` with a `$combination_modLayer` suffix, where `$combination` represents the current combination of showing and hiding layers.
 
+The files [just_a](https://github.com/ExtremOPS/hide-layer-svg/blob/master/Test_a_modLayer.svg), [just_b-c](https://github.com/ExtremOPS/hide-layer-svg/blob/master/Test_b-c_modLayer.svg), [just_d-e](https://github.com/ExtremOPS/hide-layer-svg/blob/master/Test_d-e_modLayer.svg), and the [original file](https://github.com/ExtremOPS/hide-layer-svg/blob/master/Test.svg) give the visual representation how the layers will we hidden and shown after running the script. [This file](https://github.com/ExtremOPS/hide-layer-svg/blob/master/TestWithoutIdentifier.svg) has no identifier at all and will be excluded from the modifications.
+
 If you rerun the script, it will omit all files that contain `*modLayer*` in order to prevent creating too many files.
 
 ```
