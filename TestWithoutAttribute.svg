@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="210mm"
-   height="297mm"
-   viewBox="0 0 8.2677168 11.692914"
+   width="120.3427mm"
+   height="48.027386mm"
+   viewBox="0 0 4.7379016 1.8908421"
    version="1.1"
    id="svg9"
    sodipodi:docname="TestWithoutAttribute.svg"
@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.68310039"
-     inkscape:cx="503.84867"
-     inkscape:cy="394.65807"
+     inkscape:zoom="0.73208464"
+     inkscape:cx="237.7341"
+     inkscape:cy="-375.10556"
      inkscape:current-layer="svg9"
      id="namedview4"
      showgrid="true"
@@ -41,11 +41,11 @@
      inkscape:snap-center="true"
      inkscape:snap-text-baseline="true"
      inkscape:snap-page="false"
-     inkscape:window-width="2495"
-     inkscape:window-height="1417"
-     inkscape:window-x="2552"
-     inkscape:window-y="-8"
-     inkscape:window-maximized="1">
+     inkscape:window-width="1247"
+     inkscape:window-height="1408"
+     inkscape:window-x="1242"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0">
     <inkscape:grid
        type="xygrid"
        id="grid819"
@@ -53,7 +53,9 @@
        empopacity="0.25098039"
        spacingx="0.020833334"
        spacingy="0.020833334"
-       dotted="true" />
+       dotted="true"
+       originx="-1.0810829"
+       originy="-7.8542094" />
   </sodipodi:namedview>
   <metadata
      id="metadata6">
@@ -63,7 +65,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
         <dc:creator>
           <cc:Agent>
             <dc:title>Christoph Goering</dc:title>
@@ -76,10 +78,43 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,0.69291363)" />
-  <path
-     style="opacity:1;fill:#ff00ff;fill-opacity:1;stroke:#000000;stroke-width:0.01041667;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-     d="M 2.083334,2.5262477 3.9583346,4.817915"
-     id="path816"
-     inkscape:connector-curvature="0" />
-</svg>
+     transform="translate(-1.0810829,-1.2549491)" />
+  <flowRoot
+     xml:space="preserve"
+     id="flowRoot814"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333349px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:middle;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.99999994;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     transform="matrix(0.01041667,0,0,0.01041667,-1.0810829,-1.9478627)"><flowRegion
+       id="flowRegion816"><rect
+         id="rect818"
+         width="60"
+         height="60"
+         x="0"
+         y="162.5197" /></flowRegion><flowPara
+       id="flowPara820"></flowPara></flowRoot>  <flowRoot
+     xml:space="preserve"
+     id="flowRoot822"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333349px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:middle;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.99999994;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     transform="matrix(0.01041667,0,0,0.01041667,-1.0810829,-1.9478627)"><flowRegion
+       id="flowRegion824"><rect
+         id="rect826"
+         width="500"
+         height="480"
+         x="80"
+         y="182.5197" /></flowRegion><flowPara
+       id="flowPara828"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.33332443px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle">In this whole SVG no layer has an identifier with the name &quot;exercise&quot;. This means, my file will not be processed via</flowPara><flowPara
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.33332443px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle"
+       id="flowPara830" /><flowPara
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.33332443px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle"
+       id="flowPara832">python hideAndShowLayers.py</flowPara></flowRoot>  <flowRoot
+     xml:space="preserve"
+     id="flowRoot834"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.33333206px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:middle;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.99999994;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     transform="matrix(0.01041667,0,0,0.01041667,-1.0810829,-1.9478627)"><flowRegion
+       id="flowRegion836"><rect
+         id="rect838"
+         width="720"
+         height="420"
+         x="-40"
+         y="62.519699" /></flowRegion><flowPara
+       id="flowPara840"></flowPara></flowRoot></svg>
